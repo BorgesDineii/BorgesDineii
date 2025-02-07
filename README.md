@@ -1,28 +1,17 @@
-🚀 Olá! Eu sou o Dinei Borges! 🎧💻
+🚀 Olá! Eu sou o Dinei Borges 🎧💻
+Apaixonado por tecnologia, desenvolvimento web e análise de dados, estou sempre aprimorando minhas habilidades com cursos e projetos desafiadores.
 
+💡 Sobre mim
+🔹 Stack principal: JavaScript | React.js | Python | HTML | CSS
+🔹 Interesses: Desenvolvimento Web, Automação, Data Science e Análise de Dados
+🔹 Busco oportunidades para atuar com desenvolvimento e inovação
 
-Apaixonado por tecnologia, desenvolvimento web e análise de dados! 
-
-💡 Atualmente estou sempre aprimorando minhas habilidades com cursos e projetos desafiadores.
-
-
-🔹 Stack principal: JavaScript | React.js | Python | HTML
-
-🔹 Interesses: Desenvolvimento Web, Automação, Data Science e Analise de Dados
-
-🔹 Projetos em destaque:
-
-
-
-🎵 Spotify Clone – Interface inspirada no Spotify
-
-⚡ Spotify React – Aplicação React desenvolvida na Imersão Alura
-
-🤖 Trading Bot – Robô para operações automatizadas
+🔥 Projetos em destaque
+🎵 Spotify Clone – Interface inspirada no Spotify, utilizando React.js e JSON Server
+⚡ Spotify React – Aplicação desenvolvida na Imersão Alura com React.js
+🤖 Trading Bot – automação para gerar relatório do mercado financeiro
 
 💡 Sempre buscando novos desafios e aprendizados! 🚀
-
-
 
 📬 Entre em contato:
 
