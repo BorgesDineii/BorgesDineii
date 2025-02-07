@@ -1,4 +1,5 @@
 🚀 Olá! Eu sou o Dinei Borges! 🎧💻
+
 Apaixonado por tecnologia, desenvolvimento web e análise de dados! 💡 Atualmente estou sempre aprimorando minhas habilidades com cursos e projetos desafiadores.
 
 🔹 Stack principal: JavaScript | React.js | Python | HTML
