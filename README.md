@@ -10,7 +10,7 @@ Apaixonado por **tecnologia, desenvolvimento web e análise de dados**, estou se
 ## 🔥 Projetos em destaque  
 🎵 **[Spotify Clone](https://github.com/BorgesDineii/Spotify_Clone)** – Interface inspirada no Spotify, utilizando **React.js e JSON Server**  
 ⚡ **[Spotify React](https://github.com/BorgesDineii/Spotify_react)** – Aplicação desenvolvida na **Imersão Alura** com **React.js**  
-🤖 **Trading Bot** – Automação para gerar relatórios do mercado financeiro  
+🤖 **[Trading Bot](https://github.com/BorgesDineii/DailyReports.git)** – Automação para gerar relatórios do mercado financeiro  
 
 ## 📬 Conecte-se comigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/valdinei-borges-39868b125)  
