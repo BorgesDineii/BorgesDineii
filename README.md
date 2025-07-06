@@ -39,7 +39,6 @@ Sou apaixonado por **tecnologia, desenvolvimento web e análise de dados**. Esto
 
 ---
 
-## 🎮 Estatísticas
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BorgesDineii/BorgesDineii/output/pacman-contribution-graph-dark.svg">
