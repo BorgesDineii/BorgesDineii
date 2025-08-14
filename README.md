@@ -8,7 +8,7 @@ Sou apaixonado por **tecnologia, desenvolvimento web e análise de dados**. Esto
 
 - 🔹 **Stack principal:** JavaScript | React.js | Python | HTML | CSS  
 - 🔹 **Interesses:** Desenvolvimento Web, Automação, Data Science e Análise de Dados  
-- 🔹 **Busco oportunidades** para atuar com **desenvolvimento e inovação**
+- 🔹 **objetivo** criar projetos que podem ajudar no nosso dia-a-dia com automações**
 
 ---
 
